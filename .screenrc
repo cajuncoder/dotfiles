@@ -1,0 +1,2 @@
+bindkey ^[[5;5~ eval "copy" "stuff ^U"
+bindkey ^[[6;5~ eval "copy" "stuff ^D"
